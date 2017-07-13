@@ -10,6 +10,10 @@ namespace InheritancePractice
     {
         static void Main(string[] args)
         {
+            //inheritance and polymorphism
+            //many forms of methods in a class can have different meanings
+            //for different objects using inheritance
+            //Inheritance
         }
     }
 }
