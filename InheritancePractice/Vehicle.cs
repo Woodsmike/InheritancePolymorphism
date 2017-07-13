@@ -42,7 +42,7 @@ namespace InheritancePractice
         }
         public virtual string GetDistanceTraveled()
         {
-            return "Distance traveled: " + distanceTraveled + " \n";
+            return "distance traveled: " + distanceTraveled + " \n";
         }
     }
 }
